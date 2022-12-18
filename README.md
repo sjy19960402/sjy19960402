@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://jyportfolio.herokuapp.com/">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" />
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   </a>
 </div>
 <br />
